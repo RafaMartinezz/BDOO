@@ -1,0 +1,42 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/rafa/Downloads/db4o-7.4/**/*.jar",
+            "/Users/rafa/Downloads/db4o-8.0-master/**/*.jar"
+        ],
+        "exclude": [
+            "/Users/rafa/Downloads/db4o-7.4/lib/ant.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o.instrumentation/lib/ant.jar",
+            "/Users/rafa/Downloads/db4o-7.4/doc/tutorial/docs/f1.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi/lib/db4o-7.4.71.12224-java1.2.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-java5.jar",
+            "/Users/rafa/Downloads/db4o-7.4/doc/tutorial/docs/db4o-7.4.71.12224-java5.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-nqopt.jar",
+            "/Users/rafa/Downloads/db4o-7.4/doc/tutorial/docs/db4o-7.4.71.12224-nqopt.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi/lib/db4o-7.4.71.12224-nqopt.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-osgi-test.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-osgi.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-taj.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi/lib/db4o-7.4.71.12224-tools.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-tools.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi_test/lib/db4o-tests-nq.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi_test/lib/db4o-tests.jar",
+            "/Users/rafa/Downloads/db4o-7.4/doc/tutorial/docs/doctor-applets.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/bloat-1.0.jar",
+            "/Users/rafa/Downloads/db4o-7.4/doc/tutorial/docs/bloat-1.0.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o.instrumentation/lib/bloat-1.0.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi/lib/bloat-1.0.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-bench.jar",
+            "/Users/rafa/Downloads/db4o-7.4/doc/tutorial/docs/db4o-7.4.71.12224-bench.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-db4ounit.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi_test/lib/db4o-7.4.71.12224-db4ounit.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-instrumentation.jar",
+            "/Users/rafa/Downloads/db4o-7.4/src/db4o_osgi/lib/db4o-7.4.71.12224-instrumentation.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-java1.1.jar",
+            "/Users/rafa/Downloads/db4o-7.4/lib/db4o-7.4.71.12224-java1.2.jar"
+        ]
+    }
+}
